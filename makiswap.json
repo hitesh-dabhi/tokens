@@ -1,0 +1,51 @@
+{
+  "name": "makiswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/ht.svg",
+  "keywords": ["maki", "default"],
+  "tokens": [
+    {
+      "name": "WHT Token",
+      "symbol": "WHT",
+      "address": "0x6e2ebc69de1142846912ac5f4b9559533ea2c215",
+      "chainId": 256,
+      "decimals": 18,
+      "logoURI": "/images/coins/ht.svg"
+    },
+    {
+      "name": "WHT Token",
+      "symbol": "WHT",
+      "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "TTA Token",
+      "symbol": "TTA",
+      "address": "0x8F967c2514C7D2Efe185D0D22db8D4F63192AAB4",
+      "chainId": 256,
+      "decimals": 18,
+      "logoURI": "/images/coins/eos.png"
+    },
+    {
+      "name": "Heco-Peg USDT",
+      "symbol": "USDT",
+      "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+      "chainId": 128,
+      "decimals": 18
+    },
+    {
+      "name": "Depth Token",
+      "symbol": "DEP",
+      "address": "0x48c859531254f25e57d1c1a8e030ef0b1c895c27",
+      "chainId": 128,
+      "decimals": 18
+    }
+  ]
+}
